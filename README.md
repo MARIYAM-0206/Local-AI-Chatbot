@@ -83,7 +83,7 @@ The interface displays the response.
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/local-ai-chatbot.git
+git clone https://github.com/MARIYAM-0206/local-ai-chatbot.git
 cd local-ai-chatbot
 2. Create a virtual environment
 python -m venv venv
